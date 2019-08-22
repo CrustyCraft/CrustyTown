@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.HeroWrapper {
+  background-size:cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.HeroWrapper h1 {
+  font-size:3rem
+}
+
+.header__underlined {
+  text-decoration: underline;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.heroContent {
+  position: relative;
+}
